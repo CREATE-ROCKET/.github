@@ -1,1 +1,1 @@
-# .github
+# 東工大ロケットサークル GitHub Organization へようこそ 👏
